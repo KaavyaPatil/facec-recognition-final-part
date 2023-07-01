@@ -1,0 +1,29 @@
+html,body
+{
+ background-color:#deaef5 ;
+ color:white;
+}
+
+.heading
+{
+    width: 80%;
+    font-size: 22px;
+}
+
+#camera
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px;
+}
+
+.color
+{
+    background-color: hotpink;
+    color: black;
+}
+.color_1
+{
+    background-color: #99f7f3;
+    color: black;
+}
